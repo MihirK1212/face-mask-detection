@@ -13,10 +13,10 @@ def detect_mask():
       with open("classes.txt", "r") as f:
          classes = f.read().splitlines()
 
-      cap=cv2.VideoCapture(1)
+      cap=cv2.VideoCapture(0)
 
       if not cap.isOpened():
-         cap=cv2.VideoCapture(0)
+         cap=cv2.VideoCapture(1)
       if not cap.isOpened():
          raise IOError("Cannot open webcam")
       font = cv2.FONT_HERSHEY_PLAIN
