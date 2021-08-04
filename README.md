@@ -22,5 +22,7 @@ E] For a more interactive experience
 1) Click on 'Face Mask Detection.bat' and wait for Chrome to open
 2) The website will now load...In case the website fails to load, wait for a few seconds and hit the refresh button
 
+#In case of any errors in point E, run the app.py file from a terminal and then proceed to open the link that appears in the terminal
+
 For both points D and E, press the 'Escape' button to close the WebCam
 
