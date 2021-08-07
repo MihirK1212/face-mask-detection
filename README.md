@@ -1,15 +1,15 @@
 # ML4_Face-Mask-Detection
 
 Team Details:
-Nilay Ganvit, Roll No.200001053
-Ayush Sinha, Roll No.20001012
-Mihir Karandikar, Roll No.200001044
-Akshat Nahata, Roll No.200004002
+1) Nilay Ganvit, Roll No.200001053
+2) Ayush Sinha, Roll No.20001012
+3) Mihir Karandikar, Roll No.200001044
+4) Akshat Nahata, Roll No.200004002
 
 Mentor Details:
-Rama Edlabadkar
-Pranjal Gadge
-Siddhesh Shelke
+1) Rama Edlabadkar
+2) Pranjal Gadge
+3) Siddhesh Shelke
 
 This is a trained Machine Learning Model that can detect whether a person or multiple people is/are wearing or not not wearing a mask.
 
