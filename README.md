@@ -1,4 +1,4 @@
-# ML4_Face-Mask-Detection
+# Face-Mask-Detection
 
 Team Details:
 1) Nilay Ganvit, Roll No.200001053
@@ -18,7 +18,7 @@ A] Requirements:
 2) pip install -r requirements.txt   (Please run your command prompt/terminal as administrator) 
 
 B] After downloading the project, the first thing you will need to do is to download the .weights file:
-1) Run the python script 'download_weights.py' (Preferably use a command line so that you can see the download progress)
+1) Download 'yolov3_training_last.weights' from this [drive link](#https://drive.google.com/drive/folders/1kFUPeKNL4nIF8DnlH8SbcYboiThz4Obm?usp=sharing)
 2) Ensure that a file named 'yolov3_training_last.weights' is now present in your project directory and it has a size of above 200mb
 
 C] For Detection of a Single Image
